@@ -1,0 +1,15 @@
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.csproj.AssemblyReference.cache
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.AssemblyInfoInputs.cache
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.AssemblyInfo.cs
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case29\bin\Debug\net6.0\Case29.exe
+C:\Geekbrain\Case29\bin\Debug\net6.0\Case29.deps.json
+C:\Geekbrain\Case29\bin\Debug\net6.0\Case29.runtimeconfig.json
+C:\Geekbrain\Case29\bin\Debug\net6.0\Case29.dll
+C:\Geekbrain\Case29\bin\Debug\net6.0\Case29.pdb
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.dll
+C:\Geekbrain\Case29\obj\Debug\net6.0\refint\Case29.dll
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.pdb
+C:\Geekbrain\Case29\obj\Debug\net6.0\Case29.genruntimeconfig.cache
+C:\Geekbrain\Case29\obj\Debug\net6.0\ref\Case29.dll
